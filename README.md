@@ -7,3 +7,5 @@ Website for NIC Club
 |__  Events page
 |__  Contacts page
 ```
+
+i am a  contributo
